@@ -1,0 +1,11 @@
+get_info_link_success = "/get_user_info?channel=vk&user=id1"
+get_info_link_not_found = "/get_user_info?channel=vk&user=-1"
+get_info_link_exc = "/get_user_info?channel=joke&user=id1"
+get_wall_link_success = "/get_user_wall?channel=vk&user=id1"
+get_wall_link_conflict = "/get_user_wall?channel=vk&user=id111244979"
+get_wall_link_exc = "/get_user_wall?channel=vk&user=id3"
+get_friends_link_success = "/get_user_friends?channel=vk&user=id1"
+get_friends_link_conflict = "/get_user_friends?channel=vk&user=id111244979"
+get_friends_link_exc = "/get_user_friends?channel=vk&user=id4"
+
+get_linked_friends = "/get_user_friends?channel=vk&user=id373573632"
